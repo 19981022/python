@@ -1,0 +1,6 @@
+{
+    ////// 调试Python代码（F5） //////
+    // Path to Python, you can use a custom version of Python 
+    // by modifying this setting to include the full path.
+    "python.pythonPath": "python3", // 直接用命令就好（因为zsh已经知道python3指的就是那个解释器）。你也可以更改为python3解释器的安装路径（但是我推荐你直接写python3）
+}
